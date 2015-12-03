@@ -35,7 +35,7 @@ Can search&amp;download article in Naver cafe with naming rule.
     After search finished, click [  ] button to change setting environment.
 
 8. 파일이 저장될 이름 형식을 지정합니다.  (Naming Rule에 등록된 텍스트 + 사용자 입력 텍스트)<br />
-    Set ``` Naming Rule ``` of saved files.
+    Set ``` Naming Rule ``` of saved files. (Registed text in ``` Naming Rule ``` + User entered text)
 
 9. 파일이 저장될 로컬 위치를 설정 합니다.<br />
     Set local directory of saved files.
@@ -43,7 +43,7 @@ Can search&amp;download article in Naver cafe with naming rule.
 10. Download 버튼을 클릭하여 파일을 다운로드 합니다.<br />
     Click download button and download files.
 
-## Additional Function
+## Additional Functions
 1. Text Viewer
     다운로드 된 "body.txt" 파일을 기존 Windows 내장 메모장 ``` Notepad ``` 로 열 경우, 폼 크기에 따른 개행이 자동으로 이루어지지않아
     좌-우 스크롤을 사용해야해서 가독성이 떨어지는 문제가 있었다. 이를 고려하여 보다 가독성을 높인 Text Viewer를 프로그램에 내장시켰다.<br />
