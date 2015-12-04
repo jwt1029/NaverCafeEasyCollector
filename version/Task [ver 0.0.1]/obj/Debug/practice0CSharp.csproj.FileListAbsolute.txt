@@ -1,0 +1,19 @@
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\obj\Debug\practice0CSharp.csprojResolveAssemblyReference.cache
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\obj\Debug\practice0CSharp.Form1.resources
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\obj\Debug\practice0CSharp.Properties.Resources.resources
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\obj\Debug\practice0CSharp.csproj.GenerateResource.Cache
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\bin\Debug\practice0CSharp.exe
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\bin\Debug\practice0CSharp.pdb
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\bin\Debug\Noesis.Javascript.dll
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\obj\Debug\practice0CSharp.exe
+c:\users\yeonjin\documents\visual studio 2013\Projects\practice0CSharp\obj\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.exe
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\practice0CSharp\bin\Debug\practice0CSharp.exe
+C:\Users\XenoAron\Desktop\practice0CSharp\bin\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\practice0CSharp\bin\Debug\Noesis.Javascript.dll
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.csprojResolveAssemblyReference.cache
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.Form1.resources
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.Properties.Resources.resources
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.csproj.GenerateResource.Cache
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.Form2.resources

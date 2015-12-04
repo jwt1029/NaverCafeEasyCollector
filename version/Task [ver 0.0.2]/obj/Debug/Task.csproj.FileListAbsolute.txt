@@ -1,0 +1,21 @@
+C:\Users\XenoAron\Desktop\practice0CSharp\bin\Debug\practice0CSharp.exe
+C:\Users\XenoAron\Desktop\practice0CSharp\bin\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\practice0CSharp\bin\Debug\Noesis.Javascript.dll
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.Properties.Resources.resources
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.exe
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.Form1.resources
+C:\Users\XenoAron\Desktop\practice0CSharp\obj\Debug\practice0CSharp.Form2.resources
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\practice0CSharp.exe
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\bin\Debug\practice0CSharp.exe
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\bin\Debug\practice0CSharp.pdb
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\bin\Debug\Noesis.Javascript.dll
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\practice0CSharp.Login.resources
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\practice0CSharp.Htmlsrc.resources
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\practice0CSharp.Properties.Resources.resources
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\XenoAron\Desktop\XenoAron\Programing\[Programing] - C Programing\개인 제작\[Project]\practice0CSharp\obj\Debug\practice0CSharp.Main.resources
