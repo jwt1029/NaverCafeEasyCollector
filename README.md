@@ -31,8 +31,8 @@ Can search&amp;download article in Naver cafe with naming rule.
     You can save ``` Naming Rule ``` currently set.<br />
     (Saved template can open with ``` Open Template ``` button.)
 
-7. 검색이 완료 된 후에 [  ]  버튼을 클릭하여 설정환경을 변경합니다.<br />
-    After search finished, click [  ] button to change setting environment.
+7. 검색이 완료 된 후에 [ ![alt tag](https://cloud.githubusercontent.com/assets/14898993/11578695/1a84425a-9a6b-11e5-9df3-22ddb35cdcd8.png) ]  버튼을 클릭하여 설정환경을 변경합니다.<br />
+    After search finished, click [ ![alt tag](https://cloud.githubusercontent.com/assets/14898993/11578695/1a84425a-9a6b-11e5-9df3-22ddb35cdcd8.png) ] button to change setting environment.
 
 8. 파일이 저장될 이름 형식을 지정합니다.  (Naming Rule에 등록된 텍스트 + 사용자 입력 텍스트)<br />
     Set ``` Naming Rule ``` of saved files. (Registed text in ``` Naming Rule ``` + User entered text)
