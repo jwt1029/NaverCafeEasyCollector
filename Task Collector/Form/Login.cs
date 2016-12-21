@@ -40,7 +40,7 @@ namespace practice0CSharp
         
         private void button1_Click(object sender, EventArgs e)
         {
-            NLoginCLS NL = new NLoginCLS(frm);
+            NaverLogin NL = new NaverLogin(frm);
             if (NL.Login(textBox1.Text, textBox2.Text))
             {
                 frm.Logged_in("Logged in");

@@ -59,7 +59,7 @@ namespace practice0CSharp
         {
             Login log = new Login(this as IMyInterface);
             log.Show();
-
+            
         }
 
         /* get Login Data */
